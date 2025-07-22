@@ -21,7 +21,7 @@ Since late 2023, I've been working on web development projects using:
 **Role:** QA Tester  
 **Date:** Jun 2024  
 **Description:** Tested all core functionalities of the Lebane platform (Mexico & Argentina), focusing on Java logic validation.  
-**Stack:** Java, JUnit  
+**Stack:** Java, JUnit tests 
 🔗 [Visit Site](https://lebane.app)
 
 ---
@@ -30,7 +30,7 @@ Since late 2023, I've been working on web development projects using:
 **Role:** Web Developer  
 **Date:** Aug 2024 – Present  
 **Description:** Complete website development for Savage Shirts, a Paraguayan clothing brand.  
-**Stack:** Reeactjs, HTML, CSS  
+**Stack:** Reactjs, HTML, CSS  
 🔗 [Visit Site](https://savageshirts.netlify.app)
 
 ---
